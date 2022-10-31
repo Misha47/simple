@@ -8,6 +8,7 @@
     <link rel=stylesheet href="./css/bootRegister.css"></link>
 </head>
 <body>
+<?php
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-2"></div>
@@ -46,5 +47,6 @@
             </div>
         </div>
 <script scr="js/script.js"></script>
+?>
 </body>
 </html>
